@@ -46,3 +46,6 @@ D.right is for the right element
 Reference:
 
 https://mitpress.mit.edu/9780262533058/introduction-to-algorithms/
+
+
+https://youtu.be/-BhzRRF4188
